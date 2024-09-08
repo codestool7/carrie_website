@@ -1,8 +1,8 @@
-import Grid from './grid';
-import Hero from './hero';
-import Navbar from './navbar';
+import Grid from '@/components/grid';
+import Hero from '@/components/hero';
+import Navbar from '@/components/navbar';
 
-export default function Home() {
+export default function Page() {
     return (
         <div>
             <Navbar />
